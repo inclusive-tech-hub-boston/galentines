@@ -8,7 +8,7 @@ This repo contains a few ideas -- ranging from beginner-level to more advanced -
 * **pomodoro-timer**: Build a Pomodoro Timer with the language/tools of your choice. (See an example Pomodoro Timer here: http://www.online-timers.com/pomodoro-timers)
 * **react-rock-paper-scissors**: Build a Rock-Paper-Scissors game with React! Tip: You can set up your own starter with `create-react-app`: https://github.com/facebook/create-react-app.
 * **twitter-feed**: Create a real-time feed of tweets about your favorite celebrity, book, movie, political figure, etc.
-* **valentines-message-generator**: Use PHP to parse through an array of Candy Heart Sayings and display one at random with the click of a button!
+* **php-valentines-message-generator**: Use PHP to parse through an array of Candy Heart Sayings and display one at random with the click of a button!
 1) If you don't have the PHP environment setup, don't worry! You can use an emulator: http://www.writephponline.com
 2) Create an array of Candy Heart Sayings. Examples here: https://www.rd.com/food/fun/over-10-years-of-candy-hearts-sayings-valentines-day/
 3) Create a button that will display the random saying
