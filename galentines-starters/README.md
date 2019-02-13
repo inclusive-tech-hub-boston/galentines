@@ -1,3 +1,8 @@
+These starter files are also available on Codepen: 
+Blank Starter: https://codepen.io/smcashman/pen/VgBVbb
+Starter with content: https://codepen.io/smcashman/pen/GzBwvy
+
+Some ideas on what to do with either starter code: 
 
 #Make it yours!
 Add content to personalize this porfolio to you!
