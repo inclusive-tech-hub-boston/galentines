@@ -14,11 +14,11 @@ This repo contains a few ideas -- ranging from beginner-level to more advanced -
 3) Create a button that will display the random saying
 4) Randomly pick an element (saying) from the array to display on button click
 5) Display the random saying (feel free to use CSS/JS to make it more Valentine's-themed!)
-* **rails-shopping-list**: Build a shopping list application with Ruby on Rails.
+* **rails-shopping-list**: Build a shopping list application with Ruby on Rails. Tip: You can set up your own starter using Rails: https://guides.rubyonrails.org/getting_started.html
 1) Allow a user to add items, prices, and quantities.
 2) Allow the user to view all their items on one page.
 3) Allow the user to view a page for each item.
-4) Bonus: Implement user authentication. Tip: You can set up your own starter using Rails: https://guides.rubyonrails.org/getting_started.html
+4) Bonus: Implement user authentication.
 * **geolocation-challenge**: Create an application that will allow you to find ___________ (restaurants, animal shelters, comic book stores, you name it) near you!
 * **text-to-speech**: Try your hand at creating a text-to-speech application
 
