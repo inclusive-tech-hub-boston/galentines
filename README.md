@@ -4,7 +4,7 @@ This repo contains a few ideas -- ranging from beginner-level to more advanced -
 
 * **galentines-starters** contains front-end challenges that are beginner friendly. Want to set up your own web page and make it responsive, interactive, and fun? Check out these starters!
 * **tbd** contains a PHP challenge
-* **madlibs**: Build a Madlibs generator with the language/tools of your choice.**twitter-feed**: Create a real-time feed of tweets about your favorite celebrity, book, movie, political figure, etc.
+* **madlibs**: Build a Madlibs generator with the language/tools of your choice.
 * **tip-calculator**: Build a tip calculator with the language/tools of your choice!
 * **pomodoro-timer**: Build a Pomodoro Timer with the language/tools of your choice. (See an example Pomodoro Timer here: http://www.online-timers.com/pomodoro-timers)
 * **react-rock-paper-scissors**: Build a Rock-Paper-Scissors game with React! Tip: You can set up your own starter with `create-react-app`: https://github.com/facebook/create-react-app.
